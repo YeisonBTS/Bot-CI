@@ -17,5 +17,5 @@ People are using messenger apps more than they are using social networks.
 
 Also taking into account that a large part of the users will be college students and those in their vast majority uses facebook messenger.
 
-The objetive is improve the academic performance of the language center students, facilitate the practice and study material using the methodology *Lean Development Methodology*
+The objetive is improve the academic performance of the language center students, facilitate the practice and study material using the methodology *Lean Development Methodology* <br/>
 ![Bot language center](https://github.com/YeisonBTS/Bot-CI/blob/master/images/lean.jpg)<br/>
