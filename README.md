@@ -1,6 +1,6 @@
 # Bot-CI
 ![Bot language center](https://github.com/YeisonBTS/Bot-CI/blob/master/images/bot.png)<br/>
-## CHATBOT IN MESSENGER FACEBOOK FOR FACILITATION OF MATERIALS OF THE CENTER OF FOREIGN AND NATIVE LANGUAGES - UNIVERSITY OF THE ALTIPLANO PUNO
+## Chatbot In Messenger Facebook For Facilitation Of Materials Of The Center Of Foreign And Native Languages - University Of The Altiplano Puno
 A chatbot (also known as a talkbot, chatterbot, Bot, chatterbox, Artificial Conversational Entity) is a computer program which conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test. Chatterbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. 
 
 A chatbot is a service, powered by rules and sometimes artificial intelligence, that you interact with via a chat interface. The service could be any number of things, ranging from functional to fun, and it could live in any major chat product (Facebook Messenger, Slack, Telegram, Text Messages, etc.).
