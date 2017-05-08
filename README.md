@@ -20,4 +20,4 @@ Also taking into account that a large part of the users will be college students
 
 The objetive is improve the academic performance of the language center students, facilitate the practice and study material using the methodology *Lean Development Methodology and prototype* <br/>
 ![Lean Development Methodology](https://github.com/YeisonBTS/Bot-CI/blob/master/images/lean.jpg)
-![prototipe Development Methodology](https://github.com/YeisonBTS/Bot-CI/blob/master/images/prototype.jpg)<br/>
+![prototype Development Methodology](https://github.com/YeisonBTS/Bot-CI/blob/master/images/prototype.jpg)<br/>
