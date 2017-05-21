@@ -1,4 +1,4 @@
-```python
+
 import os
 
 class Config(object):
@@ -7,4 +7,3 @@ class Config(object):
 
 class DevelopmentConfig(Config):
 		DEBUG =  True
-```
