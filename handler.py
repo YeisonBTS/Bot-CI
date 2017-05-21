@@ -29,7 +29,7 @@ def recived_message(event, token):#obtener datos o atributos necesarios del mens
 def call_send_API(data, token):#enviando estructura
     res = requests.post('https://graph.facebook.com/v2.6/me/messages',
         params = {'access_token': token },
-        data = json.dumps(data),#convierto la data e formato jason
+        data = json.dumps(data),#convierto la data e formato json
         headers = {'Content-type': 'application/json'}
         )
     if res.status_code == 200:
